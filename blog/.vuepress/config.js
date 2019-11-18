@@ -23,10 +23,6 @@ module.exports = {
         link: '/tag/',
       },
       {
-        text: 'Author',
-        link: '/tag/',
-      },
-      {
         text: 'github',
         link: 'https://github.com/Astrea-Orz/vuepress_homework.git',
       },

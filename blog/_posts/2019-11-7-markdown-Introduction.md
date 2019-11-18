@@ -1,14 +1,13 @@
 ---
-date: 2019-5-6
+date: 2019-11-7
 tag: 
-  - theme
-  - blog
-  - vuepress
-author: ULIVZ
+  - markdown
+  - introduction
+author: Astrea
 location: Shanghai  
 ---
 
-# Writing a VuePress theme
+# markdown学习
 
 - 1
 - 2
@@ -27,3 +26,5 @@ name | price | amount
 
 // 图片
 ![]()
+
+[] 今日任务
